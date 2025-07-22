@@ -1,0 +1,302 @@
+timestamp,machine_id,event_type,description
+2025-07-22T11:53:45.899879,SIMULATOR,START,Parque de 10 máquinas criado.
+2025-07-22T11:53:46.932294,PH-032,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:53:46.932462,PH-032,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:53:47.539407,PH-038,CREATED,Nova máquina PH-038 substituiu a anterior.
+2025-07-22T11:53:51.097901,PH-037,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:53:51.098068,PH-037,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:53:51.637770,PH-039,CREATED,Nova máquina PH-039 substituiu a anterior.
+2025-07-22T11:53:54.071588,PH-034,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:53:54.071741,PH-034,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:53:54.073521,PH-035,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:53:54.073677,PH-035,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:53:54.608091,PH-040,CREATED,Nova máquina PH-040 substituiu a anterior.
+2025-07-22T11:53:54.608308,PH-041,CREATED,Nova máquina PH-041 substituiu a anterior.
+2025-07-22T11:53:56.367800,PH-039,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:53:56.367992,PH-039,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:53:56.925550,PH-042,CREATED,Nova máquina PH-042 substituiu a anterior.
+2025-07-22T11:53:57.926215,PH-041,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:53:57.926377,PH-041,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:53:58.519409,PH-043,CREATED,Nova máquina PH-043 substituiu a anterior.
+2025-07-22T11:53:59.677196,PH-042,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:53:59.677399,PH-042,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:54:00.313954,PH-044,CREATED,Nova máquina PH-044 substituiu a anterior.
+2025-07-22T11:54:01.827564,PH-040,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:54:01.827772,PH-040,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:54:02.471314,PH-045,CREATED,Nova máquina PH-045 substituiu a anterior.
+2025-07-22T11:54:02.529023,PH-044,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:54:02.529259,PH-044,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:54:03.155637,PH-046,CREATED,Nova máquina PH-046 substituiu a anterior.
+2025-07-22T11:54:16.096635,PH-036,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:54:16.096874,PH-036,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:54:16.756928,PH-047,CREATED,Nova máquina PH-047 substituiu a anterior.
+2025-07-22T11:54:20.076973,PH-043,FAILURE,Causa: Superaquecimento Crítico do Óleo
+2025-07-22T11:54:20.077197,PH-043,REPAIR_STARTED,Reparo iniciado. Tempo: 24h
+2025-07-22T11:54:20.734227,PH-048,CREATED,Nova máquina PH-048 substituiu a anterior.
+2025-07-22T11:54:23.727206,PH-029,FAILURE,Causa: Superaquecimento Crítico do Óleo
+2025-07-22T11:54:23.727403,PH-029,REPAIR_STARTED,Reparo iniciado. Tempo: 24h
+2025-07-22T11:54:24.424875,PH-049,CREATED,Nova máquina PH-049 substituiu a anterior.
+2025-07-22T11:54:24.478725,PH-047,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:54:24.478992,PH-047,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:54:25.130606,PH-050,CREATED,Nova máquina PH-050 substituiu a anterior.
+2025-07-22T11:54:28.137023,PH-049,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:54:28.137230,PH-049,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:54:28.824768,PH-051,CREATED,Nova máquina PH-051 substituiu a anterior.
+2025-07-22T11:54:31.083941,PH-030,FAILURE,Causa: Superaquecimento Crítico do Óleo
+2025-07-22T11:54:31.084184,PH-030,REPAIR_STARTED,Reparo iniciado. Tempo: 24h
+2025-07-22T11:54:31.791037,PH-052,CREATED,Nova máquina PH-052 substituiu a anterior.
+2025-07-22T11:54:31.824080,PH-033,FAILURE,Causa: Superaquecimento Crítico do Óleo
+2025-07-22T11:54:31.824347,PH-033,REPAIR_STARTED,Reparo iniciado. Tempo: 24h
+2025-07-22T11:54:32.511938,PH-053,CREATED,Nova máquina PH-053 substituiu a anterior.
+2025-07-22T11:54:32.894051,PH-051,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:54:32.894287,PH-051,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:54:33.598501,PH-054,CREATED,Nova máquina PH-054 substituiu a anterior.
+2025-07-22T11:54:35.120167,PH-045,FAILURE,Causa: Superaquecimento Crítico do Óleo
+2025-07-22T11:54:35.120394,PH-045,REPAIR_STARTED,Reparo iniciado. Tempo: 24h
+2025-07-22T11:54:35.789115,PH-055,CREATED,Nova máquina PH-055 substituiu a anterior.
+2025-07-22T11:54:35.819483,PH-038,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:54:35.819709,PH-038,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:54:36.516019,PH-056,CREATED,Nova máquina PH-056 substituiu a anterior.
+2025-07-22T11:54:37.301531,PH-053,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:54:37.301767,PH-053,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:54:37.996412,PH-057,CREATED,Nova máquina PH-057 substituiu a anterior.
+2025-07-22T11:54:40.220451,PH-054,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:54:40.220719,PH-054,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:54:40.930989,PH-058,CREATED,Nova máquina PH-058 substituiu a anterior.
+2025-07-22T11:54:41.348970,PH-050,FAILURE,Causa: Superaquecimento Crítico do Óleo
+2025-07-22T11:54:41.349188,PH-050,REPAIR_STARTED,Reparo iniciado. Tempo: 24h
+2025-07-22T11:54:42.014075,PH-059,CREATED,Nova máquina PH-059 substituiu a anterior.
+2025-07-22T11:54:43.187047,PH-048,FAILURE,Causa: Superaquecimento Crítico do Óleo
+2025-07-22T11:54:43.187256,PH-048,REPAIR_STARTED,Reparo iniciado. Tempo: 24h
+2025-07-22T11:54:43.842429,PH-060,CREATED,Nova máquina PH-060 substituiu a anterior.
+2025-07-22T11:54:47.148619,PH-057,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:54:47.148836,PH-057,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:54:47.811761,PH-061,CREATED,Nova máquina PH-061 substituiu a anterior.
+2025-07-22T11:54:47.856960,PH-060,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:54:47.857201,PH-060,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:54:48.516068,PH-062,CREATED,Nova máquina PH-062 substituiu a anterior.
+2025-07-22T11:54:50.734673,PH-058,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:54:50.734916,PH-058,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:54:50.766248,PH-055,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:54:50.766464,PH-055,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:54:51.413920,PH-063,CREATED,Nova máquina PH-063 substituiu a anterior.
+2025-07-22T11:54:51.414187,PH-064,CREATED,Nova máquina PH-064 substituiu a anterior.
+2025-07-22T11:54:52.196995,PH-062,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:54:52.197221,PH-062,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:54:52.863386,PH-065,CREATED,Nova máquina PH-065 substituiu a anterior.
+2025-07-22T11:54:52.900187,PH-061,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:54:52.900405,PH-061,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:54:53.572293,PH-066,CREATED,Nova máquina PH-066 substituiu a anterior.
+2025-07-22T11:54:55.463880,PH-066,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:54:55.464104,PH-066,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:54:56.137294,PH-067,CREATED,Nova máquina PH-067 substituiu a anterior.
+2025-07-22T11:54:56.540458,PH-056,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:54:56.540739,PH-056,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:54:56.550148,PH-064,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:54:56.550391,PH-064,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:54:57.210702,PH-068,CREATED,Nova máquina PH-068 substituiu a anterior.
+2025-07-22T11:54:57.210948,PH-069,CREATED,Nova máquina PH-069 substituiu a anterior.
+2025-07-22T11:54:58.729430,PH-052,FAILURE,Causa: Superaquecimento Crítico do Óleo
+2025-07-22T11:54:58.729642,PH-052,REPAIR_STARTED,Reparo iniciado. Tempo: 24h
+2025-07-22T11:54:59.439633,PH-070,CREATED,Nova máquina PH-070 substituiu a anterior.
+2025-07-22T11:55:03.158063,PH-068,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:55:03.158265,PH-068,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:55:03.849530,PH-071,CREATED,Nova máquina PH-071 substituiu a anterior.
+2025-07-22T11:55:12.193493,PH-065,FAILURE,Causa: Superaquecimento Crítico do Óleo
+2025-07-22T11:55:12.193648,PH-065,REPAIR_STARTED,Reparo iniciado. Tempo: 24h
+2025-07-22T11:55:12.797273,PH-072,CREATED,Nova máquina PH-072 substituiu a anterior.
+2025-07-22T11:55:14.155377,PH-072,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:55:14.155571,PH-072,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:55:14.770054,PH-073,CREATED,Nova máquina PH-073 substituiu a anterior.
+2025-07-22T11:55:22.974804,PH-071,FAILURE,Causa: Superaquecimento Crítico do Óleo
+2025-07-22T11:55:22.974958,PH-071,REPAIR_STARTED,Reparo iniciado. Tempo: 24h
+2025-07-22T11:55:23.634279,PH-074,CREATED,Nova máquina PH-074 substituiu a anterior.
+2025-07-22T11:55:34.786840,PH-074,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:55:34.787084,PH-074,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:55:35.512705,PH-075,CREATED,Nova máquina PH-075 substituiu a anterior.
+2025-07-22T11:55:36.988335,PH-075,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:55:36.988540,PH-075,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:55:37.674394,PH-076,CREATED,Nova máquina PH-076 substituiu a anterior.
+2025-07-22T11:55:37.719708,PH-073,FAILURE,Causa: Superaquecimento Crítico do Óleo
+2025-07-22T11:55:37.719957,PH-073,REPAIR_STARTED,Reparo iniciado. Tempo: 24h
+2025-07-22T11:55:38.414835,PH-077,CREATED,Nova máquina PH-077 substituiu a anterior.
+2025-07-22T11:55:41.327552,PH-076,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:55:41.327771,PH-076,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:55:42.025132,PH-078,CREATED,Nova máquina PH-078 substituiu a anterior.
+2025-07-22T11:56:02.905988,PH-078,FAILURE,Causa: Superaquecimento Crítico do Óleo
+2025-07-22T11:56:02.906223,PH-078,REPAIR_STARTED,Reparo iniciado. Tempo: 24h
+2025-07-22T11:56:03.640952,PH-079,CREATED,Nova máquina PH-079 substituiu a anterior.
+2025-07-22T11:56:09.485769,PH-069,FAILURE,Causa: Superaquecimento Crítico do Óleo
+2025-07-22T11:56:09.486966,PH-069,REPAIR_STARTED,Reparo iniciado. Tempo: 24h
+2025-07-22T11:56:10.281077,PH-080,CREATED,Nova máquina PH-080 substituiu a anterior.
+2025-07-22T11:56:11.508295,PH-080,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:56:11.508547,PH-080,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:56:12.297815,PH-081,CREATED,Nova máquina PH-081 substituiu a anterior.
+2025-07-22T11:56:13.493373,PH-028,FAILURE,Causa: Falha Geral por Desgaste
+2025-07-22T11:56:13.493625,PH-028,REPAIR_STARTED,Reparo iniciado. Tempo: 48h
+2025-07-22T11:56:14.673303,PH-082,CREATED,Nova máquina PH-082 substituiu a anterior.
+2025-07-22T11:56:17.417654,PH-081,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:56:17.417916,PH-081,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:56:17.742316,PH-079,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:56:17.742534,PH-079,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:56:18.129444,PH-083,CREATED,Nova máquina PH-083 substituiu a anterior.
+2025-07-22T11:56:18.575237,PH-084,CREATED,Nova máquina PH-084 substituiu a anterior.
+2025-07-22T11:56:23.208882,PH-083,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:56:23.209109,PH-083,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:56:23.944943,PH-085,CREATED,Nova máquina PH-085 substituiu a anterior.
+2025-07-22T11:56:27.367276,PH-046,FAILURE,Causa: Falha Geral por Desgaste
+2025-07-22T11:56:27.367529,PH-046,REPAIR_STARTED,Reparo iniciado. Tempo: 48h
+2025-07-22T11:56:28.448844,PH-086,CREATED,Nova máquina PH-086 substituiu a anterior.
+2025-07-22T11:56:29.994401,PH-085,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:56:29.994611,PH-085,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:56:30.708173,PH-087,CREATED,Nova máquina PH-087 substituiu a anterior.
+2025-07-22T11:56:32.972563,PH-086,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:56:32.972795,PH-086,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:56:33.673942,PH-088,CREATED,Nova máquina PH-088 substituiu a anterior.
+2025-07-22T11:56:38.630240,PH-082,FAILURE,Causa: Superaquecimento Crítico do Óleo
+2025-07-22T11:56:38.630458,PH-082,REPAIR_STARTED,Reparo iniciado. Tempo: 24h
+2025-07-22T11:56:39.427488,PH-089,CREATED,Nova máquina PH-089 substituiu a anterior.
+2025-07-22T11:56:44.346193,PH-089,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:56:44.346443,PH-089,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:56:45.184999,PH-090,CREATED,Nova máquina PH-090 substituiu a anterior.
+2025-07-22T11:56:47.157547,PH-070,FAILURE,Causa: Falha Geral por Desgaste
+2025-07-22T11:56:47.157752,PH-070,REPAIR_STARTED,Reparo iniciado. Tempo: 48h
+2025-07-22T11:56:47.973368,PH-087,FAILURE,Causa: Superaquecimento Crítico do Óleo
+2025-07-22T11:56:47.973629,PH-087,REPAIR_STARTED,Reparo iniciado. Tempo: 24h
+2025-07-22T11:56:48.237472,PH-091,CREATED,Nova máquina PH-091 substituiu a anterior.
+2025-07-22T11:56:48.702523,PH-092,CREATED,Nova máquina PH-092 substituiu a anterior.
+2025-07-22T11:56:51.390252,PH-091,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:56:51.390460,PH-091,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:56:52.184739,PH-093,CREATED,Nova máquina PH-093 substituiu a anterior.
+2025-07-22T11:56:54.457377,PH-093,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:56:54.457674,PH-093,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:56:55.231495,PH-094,CREATED,Nova máquina PH-094 substituiu a anterior.
+2025-07-22T11:56:56.414612,PH-092,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:56:56.414853,PH-092,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:56:57.180806,PH-095,CREATED,Nova máquina PH-095 substituiu a anterior.
+2025-07-22T11:56:57.955894,PH-094,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:56:57.956128,PH-094,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:56:58.764314,PH-096,CREATED,Nova máquina PH-096 substituiu a anterior.
+2025-07-22T11:56:58.775373,PH-063,FAILURE,Causa: Falha Geral por Desgaste
+2025-07-22T11:56:58.775660,PH-063,REPAIR_STARTED,Reparo iniciado. Tempo: 48h
+2025-07-22T11:56:59.946185,PH-097,CREATED,Nova máquina PH-097 substituiu a anterior.
+2025-07-22T11:57:03.760947,PH-095,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:57:03.761208,PH-095,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:57:04.525493,PH-098,CREATED,Nova máquina PH-098 substituiu a anterior.
+2025-07-22T11:57:06.443613,PH-090,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:57:06.443840,PH-090,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:57:07.285767,PH-099,CREATED,Nova máquina PH-099 substituiu a anterior.
+2025-07-22T11:57:07.344578,PH-088,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:57:07.344802,PH-088,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:57:08.108338,PH-100,CREATED,Nova máquina PH-100 substituiu a anterior.
+2025-07-22T11:57:09.267966,PH-098,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:57:09.268234,PH-098,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:57:10.047609,PH-101,CREATED,Nova máquina PH-101 substituiu a anterior.
+2025-07-22T11:57:10.832469,PH-096,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:57:10.832693,PH-096,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:57:11.620218,PH-102,CREATED,Nova máquina PH-102 substituiu a anterior.
+2025-07-22T11:57:13.884879,PH-101,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:57:13.885095,PH-101,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:57:14.694834,PH-103,CREATED,Nova máquina PH-103 substituiu a anterior.
+2025-07-22T11:57:16.279553,PH-100,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:57:16.279792,PH-100,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:57:17.004188,PH-104,CREATED,Nova máquina PH-104 substituiu a anterior.
+2025-07-22T11:57:18.539995,PH-104,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:57:18.540221,PH-104,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:57:19.259881,PH-105,CREATED,Nova máquina PH-105 substituiu a anterior.
+2025-07-22T11:57:24.398822,PH-099,FAILURE,Causa: Superaquecimento Crítico do Óleo
+2025-07-22T11:57:24.399060,PH-099,REPAIR_STARTED,Reparo iniciado. Tempo: 24h
+2025-07-22T11:57:25.209337,PH-106,CREATED,Nova máquina PH-106 substituiu a anterior.
+2025-07-22T11:57:28.548015,PH-102,FAILURE,Causa: Superaquecimento Crítico do Óleo
+2025-07-22T11:57:28.548305,PH-102,REPAIR_STARTED,Reparo iniciado. Tempo: 24h
+2025-07-22T11:57:29.340671,PH-107,CREATED,Nova máquina PH-107 substituiu a anterior.
+2025-07-22T11:57:30.149579,PH-077,FAILURE,Causa: Falha Geral por Desgaste
+2025-07-22T11:57:30.149800,PH-077,REPAIR_STARTED,Reparo iniciado. Tempo: 48h
+2025-07-22T11:57:31.277985,PH-108,CREATED,Nova máquina PH-108 substituiu a anterior.
+2025-07-22T11:57:34.323942,PH-105,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:57:34.324152,PH-105,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:57:35.064740,PH-109,CREATED,Nova máquina PH-109 substituiu a anterior.
+2025-07-22T11:57:36.985706,PH-103,FAILURE,Causa: Superaquecimento Crítico do Óleo
+2025-07-22T11:57:36.985953,PH-103,REPAIR_STARTED,Reparo iniciado. Tempo: 24h
+2025-07-22T11:57:37.769370,PH-110,CREATED,Nova máquina PH-110 substituiu a anterior.
+2025-07-22T11:57:38.937836,PH-108,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:57:38.938069,PH-108,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:57:39.402656,PH-109,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:57:39.402866,PH-109,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:57:39.651301,PH-111,CREATED,Nova máquina PH-111 substituiu a anterior.
+2025-07-22T11:57:40.114618,PH-112,CREATED,Nova máquina PH-112 substituiu a anterior.
+2025-07-22T11:57:44.903994,PH-111,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:57:44.904247,PH-111,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:57:45.649581,PH-113,CREATED,Nova máquina PH-113 substituiu a anterior.
+2025-07-22T11:57:52.988146,PH-110,FAILURE,Causa: Superaquecimento Crítico do Óleo
+2025-07-22T11:57:52.988481,PH-110,REPAIR_STARTED,Reparo iniciado. Tempo: 24h
+2025-07-22T11:57:53.765222,PH-114,CREATED,Nova máquina PH-114 substituiu a anterior.
+2025-07-22T11:57:55.609760,PH-106,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:57:55.609959,PH-106,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:57:56.427865,PH-115,CREATED,Nova máquina PH-115 substituiu a anterior.
+2025-07-22T11:58:03.762322,PH-031,FAILURE,Causa: Falha Geral por Desgaste
+2025-07-22T11:58:03.762538,PH-031,REPAIR_STARTED,Reparo iniciado. Tempo: 48h
+2025-07-22T11:58:04.428775,PH-107,FAILURE,Causa: Superaquecimento Crítico do Óleo
+2025-07-22T11:58:04.429038,PH-107,REPAIR_STARTED,Reparo iniciado. Tempo: 24h
+2025-07-22T11:58:04.952667,PH-116,CREATED,Nova máquina PH-116 substituiu a anterior.
+2025-07-22T11:58:05.458599,PH-117,CREATED,Nova máquina PH-117 substituiu a anterior.
+2025-07-22T11:58:11.456348,PH-116,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:58:11.456562,PH-116,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:58:12.253781,PH-118,CREATED,Nova máquina PH-118 substituiu a anterior.
+2025-07-22T11:58:15.241736,PH-114,FAILURE,Causa: Superaquecimento Crítico do Óleo
+2025-07-22T11:58:15.241957,PH-114,REPAIR_STARTED,Reparo iniciado. Tempo: 24h
+2025-07-22T11:58:16.044740,PH-119,CREATED,Nova máquina PH-119 substituiu a anterior.
+2025-07-22T11:58:21.291250,PH-118,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:58:21.291463,PH-118,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:58:22.098294,PH-120,CREATED,Nova máquina PH-120 substituiu a anterior.
+2025-07-22T11:58:26.527925,PH-119,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:58:26.528158,PH-119,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:58:27.318534,PH-121,CREATED,Nova máquina PH-121 substituiu a anterior.
+2025-07-22T11:58:32.559742,PH-121,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:58:32.559947,PH-121,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:58:33.360119,PH-122,CREATED,Nova máquina PH-122 substituiu a anterior.
+2025-07-22T11:58:53.194136,PH-120,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:58:53.194403,PH-120,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:58:54.051534,PH-123,CREATED,Nova máquina PH-123 substituiu a anterior.
+2025-07-22T11:58:59.094315,PH-122,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:58:59.094522,PH-122,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:58:59.944484,PH-124,CREATED,Nova máquina PH-124 substituiu a anterior.
+2025-07-22T11:59:01.859599,PH-117,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:59:01.859816,PH-117,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:59:02.431536,PH-124,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:59:02.431762,PH-124,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:59:02.711802,PH-125,CREATED,Nova máquina PH-125 substituiu a anterior.
+2025-07-22T11:59:03.255433,PH-126,CREATED,Nova máquina PH-126 substituiu a anterior.
+2025-07-22T11:59:05.240757,PH-059,FAILURE,Causa: Falha Geral por Desgaste
+2025-07-22T11:59:05.241006,PH-059,REPAIR_STARTED,Reparo iniciado. Tempo: 48h
+2025-07-22T11:59:06.502372,PH-127,CREATED,Nova máquina PH-127 substituiu a anterior.
+2025-07-22T11:59:08.805678,PH-123,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:59:08.805950,PH-123,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:59:09.652129,PH-128,CREATED,Nova máquina PH-128 substituiu a anterior.
+2025-07-22T11:59:12.708899,PH-125,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:59:12.709140,PH-125,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:59:13.246109,PH-128,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:59:13.246446,PH-128,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:59:13.545348,PH-129,CREATED,Nova máquina PH-129 substituiu a anterior.
+2025-07-22T11:59:14.086372,PH-130,CREATED,Nova máquina PH-130 substituiu a anterior.
+2025-07-22T11:59:14.905499,PH-129,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:59:14.905724,PH-129,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:59:15.773071,PH-131,CREATED,Nova máquina PH-131 substituiu a anterior.
+2025-07-22T11:59:15.799664,PH-130,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:59:15.799922,PH-130,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:59:16.657269,PH-132,CREATED,Nova máquina PH-132 substituiu a anterior.
+2025-07-22T11:59:22.640859,PH-132,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:59:22.641086,PH-132,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:59:23.488549,PH-133,CREATED,Nova máquina PH-133 substituiu a anterior.
+2025-07-22T11:59:31.872980,PH-131,FAILURE,Causa: Vibração Destrutiva do Motor
+2025-07-22T11:59:31.873186,PH-131,REPAIR_STARTED,Reparo iniciado. Tempo: 8h
+2025-07-22T11:59:32.738161,PH-134,CREATED,Nova máquina PH-134 substituiu a anterior.
+2025-07-22T11:59:39.765053,PH-067,FAILURE,Causa: Falha Geral por Desgaste
+2025-07-22T11:59:39.765310,PH-067,REPAIR_STARTED,Reparo iniciado. Tempo: 48h
+2025-07-22T11:59:41.010046,PH-135,CREATED,Nova máquina PH-135 substituiu a anterior.
+2025-07-22T11:59:49.268425,PH-133,FAILURE,Causa: Superaquecimento Crítico do Óleo
+2025-07-22T11:59:49.268649,PH-133,REPAIR_STARTED,Reparo iniciado. Tempo: 24h
+2025-07-22T11:59:50.105437,PH-136,CREATED,Nova máquina PH-136 substituiu a anterior.
+2025-07-22T11:59:55.521724,PH-134,FAILURE,Causa: Superaquecimento Crítico do Óleo
+2025-07-22T11:59:55.521934,PH-134,REPAIR_STARTED,Reparo iniciado. Tempo: 24h
+2025-07-22T11:59:56.368451,PH-137,CREATED,Nova máquina PH-137 substituiu a anterior.
